@@ -54,8 +54,9 @@ If this was meant to be a productionalized, I would consider multiple options li
 3. Utilize something like ANTLR, which is a parser generator which already has the capability to process ["calculator"-like grammar](https://github.com/antlr/grammars-v4/blob/master/calculator/calculator.g4).
 
 If I had more time, some other things to do would be:
-1. Add Jest unit tests for the `helpers`
-2. Add React Testing Library unit tests for the frontend components
+1. Support key press of inputs on top of manual clicking
+2. Add Jest unit tests for the `helpers`
+3. Add React Testing Library unit tests for the frontend components
 
 ## How to Run
 
